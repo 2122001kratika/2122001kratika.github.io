@@ -1,0 +1,54 @@
+body{
+	background-image: url(smile.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+  /*background-attachment: fixed;*/
+    background-position:center;
+
+}
+.card{
+	margin:0 auto;
+	background-color: rgba(245, 0 ,0 ,0);
+	margin-top: 250px;
+	margin-bottom: 250px
+}
+.card-body{
+	text-align: center;
+}
+
+.card-text{
+    color :#1D060E;
+    font-family: 'Staatliches', cursive;
+    font-weight:bold;
+    font-size: 40px;
+    text-align: center;
+    display:flex;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: pink;
+    
+}
+.card-title{
+    color:#1D060E;
+    font-family: 'Staatliches', cursive;
+    font-weight:bold;
+    font-size: 30px;
+    margin-bottom: 120px;
+    background-color: pink;
+    width:350px;
+}
+.row{
+	margin-bottom: 80px;
+}
+.btn{
+
+	border-radius:40px;
+	background-color:pink;
+	font-weight: bold;
+	color:#1D060E;
+	border-top: 2px solid black;
+}
+ .btn:hover{
+ 	background-color:#1D060E;
+ 	color:pink;
+ }
