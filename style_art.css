@@ -43,6 +43,7 @@ img:hover{
 	font-size: 120%;
 	line-height: 7px;
 	text-align: center;
+	font-family: 'Lobster', cursive;
 }
 .tiger{
  text-decoration: underline; 
@@ -56,6 +57,7 @@ img:hover{
 	font-size: 150%;
 	line-height: 22px;
 	text-align:center;
+	font-family: 'Lobster', cursive;
 }
 .swami:first-child {
 	text-decoration:underline;
@@ -72,6 +74,7 @@ img:hover{
 	font-size: 120%;
 	line-height: 18px;
 	text-align:center;
+	font-family: 'Lobster', cursive;
 }
 span{
 	text-decoration:underline;
@@ -86,6 +89,7 @@ span{
 	font-size: 120%;
 	line-height: 20px;
 	text-align:center;
+	font-family: 'Lobster', cursive;
 }
 .amitabh:first-child{
 	text-decoration:underline;
@@ -100,6 +104,7 @@ span{
 	font-size: 120%;
 	line-height: 20px;
 	text-align:center;
+	font-family: 'Lobster', cursive;
 }
 .mumtaz:first-child{
 	font-style:italic;
@@ -114,7 +119,9 @@ span{
 	font-size: 120%;
 	line-height: 20px;
 	text-align:center;
+	font-family: 'Lobster', cursive;
 }
+
 .hut:first-child{
 	font-style:italic;
 }
